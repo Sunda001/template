@@ -1,6 +1,6 @@
 Authors
 -------
 
-* Sakty (Owner) GH: Sunda001
+* Sakty (Owner) Git: Sunda001
 
 
